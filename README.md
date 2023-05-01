@@ -14,7 +14,7 @@ This is the [link](https://github.com/Ksound22/developer-portfolio) to the Githu
 
 ## Sample Website
 
-A live demo is already available via this [link](https://eager-williams-af0d00.netlify.app/?)
+A live demo is already available via this [link](http://127.0.0.1:5500/index.html#skills)
 
 ## Tech Stack
 
