@@ -1,8 +1,5 @@
 # DEVELOPER PORTFOLIO
 
-A portfolio website template for campers
-
-![Holly - Drazenovich](Holly.png)
 
 ## Author
 
@@ -12,9 +9,6 @@ A portfolio website template for campers
 
 This is the [link](https://github.com/Ksound22/developer-portfolio) to the Github repo of the project
 
-## Sample Website
-
-A live demo is already available via this [link](http://127.0.0.1:5500/index.html#skills)
 
 ## Tech Stack
 
